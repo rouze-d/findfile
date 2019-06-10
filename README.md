@@ -10,5 +10,5 @@ usage:<br>
 bash findfile.sh<br>
 input full URL target and press Enter.
 
-![screen_1](https://github.com/rouze-d/findfile/blob/master/screen01.png)
-![screen_2](https://github.com/rouze-d/findfile/blob/master/screen02.png)
+<img src="https://github.com/rouze-d/findfile/blob/master/screen01.png" width="800" height="350"/>
+<img src="https://github.com/rouze-d/findfile/blob/master/screen02.png" width="800" height="350"/>
