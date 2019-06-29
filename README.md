@@ -12,7 +12,5 @@ usage:<br>
 ```
 bash findfile.sh
 ```
-input full URL target and press Enter.
-
-<img src="https://github.com/rouze-d/findfile/blob/master/screen01.png" width="800" height="350"/>
-<img src="https://github.com/rouze-d/findfile/blob/master/screen02.png" width="800" height="350"/>
+#DEMO
+[![asciicast](https://asciinema.org/a/254236.svg)](https://asciinema.org/a/254236)
