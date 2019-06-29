@@ -12,5 +12,5 @@ usage:<br>
 ```
 bash findfile.sh
 ```
-## DEMO
+## Demo
 [![asciicast](https://asciinema.org/a/254239.svg)](https://asciinema.org/a/254239)
