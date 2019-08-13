@@ -36,9 +36,9 @@ def run(dmn,file):
 	#h.putrequest('GET',"/search?num=500000&q=site:"+dmn+"+filetype:"+file+"&start=10&end=50000")
     #h.putrequyest('GET',"/search?num=50000&q=site:"+dmn+"+filetype:"+file+"&start=1")
 	h.putheader('Host', 'www.google.com')
-	h.putheader('User-agent', 'Mozilla/5.0 (compatible; Googlebot/2.1; + http://www.google.com/bot.html)')
+	h.putheader('User-agent', 'Googlebot/2.1 (+http://www.google.com/bot.html)')
     #h.putheader('Referrer', 'www.google.com')
-	h.putheader('Referrer', 'www."+dmn+"')
+	h.putheader('Referrer', "www."+dmn+"'")
 	h.endheaders()
 	returncode, returnmsg, headers = h.getreply()
 	data=h.getfile().read()
@@ -52,7 +52,7 @@ def run(dmn,file):
 
 def search(argv):
 	global limit
-	limit = 50000
+	limit = 70
 	if len(sys.argv) < 2: 
 		usage() 
 	try :
@@ -83,7 +83,7 @@ def search(argv):
 		for x in res:
 			if result.count(x) == 0:
         			result.append(x)
-		cant+=5000
+		cant+=70
 			
 
 	print "\n Files found:"
