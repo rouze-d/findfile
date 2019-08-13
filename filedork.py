@@ -38,7 +38,7 @@ def run(dmn,file):
 	h.putheader('Host', 'www.google.com')
 	h.putheader('User-agent', 'Googlebot/2.1 (+http://www.google.com/bot.html)')
     #h.putheader('Referrer', 'www.google.com')
-	h.putheader('Referrer', "www."+dmn+"'")
+	h.putheader('Referrer', "'www."+dmn+"'")
 	h.endheaders()
 	returncode, returnmsg, headers = h.getreply()
 	data=h.getfile().read()
