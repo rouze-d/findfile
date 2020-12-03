@@ -1,4 +1,651 @@
 #!/bin/bash
 
-God="BlessYou";krF=FoL;Gnr=Vl;QIy=Is;UOt=FC;kVE=Sk;KlM=gM;Xwe=TF;oTX=dD;Yox=Qa;wQx=mb;Kqb=Zy;xWU=twB;gTp=auw;hwZ=Ejp;tHg=iQZ;ojo=shb;jhw=FjF;IDL=klV;wOA=yFT;PZL=XfL;DRJ=DiE;bmJ=FCa;XGN=dOT;QCK=dkY;SOb=WJE;RJx=uAv;czJ=dts;VGB=oCy;TyO=xGj;yHU=bpq;Nfb=Wct;doQ=Ibf;XCL=rax;ZNH=Hhf;Eoh=yCU;ghd=hut;ooz=VKY;qMf=PrY;Ecf=Lke;BbJ=jie;QOI=lOT;oi=QkU;yM=iDO;rT=twI;wa=BEk;Lf=SGl;Sx=Kri;yL=RiF;Xf=iZT;iv=fpC;fW=nki;qX=FrL;ba=OUY;czP=Hdm;ecN=WKt;QMW=BnB;Nsq=jdC;nof=OZt;bhx=qNV;vVN=xaU;smp=Wta;ceY=GDh;AIB=juO;miA=Cso;zgz=Hka;Kea=YMq;hUp=SWY;zMP=ozk;WGK=JEt;pkF=jjF;FCq=pFs;ZrQ=VcQ;ZjS=do;BTP=Su;sly=xM;aZl=vF;iJn=bo;QCl=HB;SCO=xo;fUq=Jo;Epq=zc;wxq=Ev;ziJ=Gx;Kzo=JF;PDO=pJ;qhq=yp;OYk=rj;OGy=Cc;hSK=xR;lnD=um;UXi=pl;xBF=xP;qOD=iX;RVy=nl;mqe=JK;rQt=CA;qJD=FR;sPp=XZ;moh=DC;Fsj=GWh;NTx=Jnx;dwG=ncr;Ugd=mFV;ZTt=WjI;mFG=lms;YGK=bPI;UKs=ibv;hka=JFE;zpQ=Gxt;VlF=Jxk;AEJ=cuk;SUZ=YiV;Wfq=NhZ;xLp=ray;QmE=mqM;fkp=tHl;Sek=XvT;qbj=EKu;RfA=xSe;fPQ=Oll;cif=jtg;GYE=yei;Prw=RTD;sMB=pEL;sxA=APb;aRs=HgZ;SXm=VSI;lZA=UKc;YMw=Lct;bwO=XQI;OxQ=COX;bPh=KqP;GVr=hRx;eoA=eID;AZK=fFj;PGC=XPy;ieV=gly;AUO=yit;GjW=jaZ;tBB=HSO;vdV=efl;HiW=VHx;JaQ=RCo;cGr=fsk;eib=jty;TPK=rlb;dhM=oDt;tCL=muK;gAg=xQq;xWl=eMt;AtB=mbQ;UzS=lee;xjU=CPZ;qLS=iIg;dQw=NHN;Dum=qAc;aei=Whw;afz=OcR;NWZ=Txs;gzI=HsZ;YmH=IIm;kZc=Ppd;qnZ=vjw;sQw=BmF;PAB=rGe;gah=aHu;XfD=uJJ;LmJ=PUK;jCz=XpN;gTg=hRF;cpS=fhx;wFI=fih;pHM=aTH;GIm=Jtb;XDy=XGY;zMs=kPd;VtP=pbP;ALj=acU;HEZ=Tre;EPr=vOf;eSC=AIk;TXH=szR;nNa=bGD;lQt=Qod;Qvm=HGI;tkS=IOY;qmZ=tDf;xxx=xOS;pFg=XCd;aVR=xGh;ooR=AHX;JVj=laY;TvM=kEx;SYU=hol;ddj=khS;aPP=oiI;Edo="
-";DSi=WYX;LHA=Gfx;VgU=gJZ;Rxh=xYy;bXG=gvs;eLoP="e";u18="6";Yt="l";Yxgs="";qwt="Fu";ieC=HO;XcH=Rv;Ugs=LC;vD=xp;fy=oW;Zl=LhH;oP=Jm;sDA=kpY;GHn=TB;wzk=Da;oiO=Ei;NaM=hIf;fC=vjz;kT=rz;sV=bZz;CL=ARL;Wc=dA;gZG=tGI;vpk=cM;Aao=tgy;sU=ld;LZ=Pr;BE=wCX;iN=fQ;RCe=Dm;Rc=Fl;Njo=OMq;gtb=SKa;Wf=jMB;Dm=wHr;Nx=Wn;ANT=jAK;oFy=Bnc;IjZ=Xj;DQa=oK;ewZ=Vm;QPf=lz;Cwg=aS;KEM=jS;fkE=hM;nLw=ym;FWv=BC;aDC=Lw;tW=Rgn;kw=Hgf;tQ=eSh;Fi=iGb;Or=snM;ZG=xqx;xC=WJr;Bf=haC;pT=THr;By=jbu;tm=Hcy;eT=nTC;UT=KCa;dk=Pxy;vG=TvX;HX=MMB;Ow=ZoT;UJ=LvE;rx=oMF;EB=VZx;OC=IfU;dv=lTx;Nk=TNq;Ej=bKu;dl=ZZi;yzL=bJ;EiG=LJ;iqg=gK;fbd=vg;OPl=Ei;tnI=YS;yBV=DA;yxh=Ks;Nic=Ih;wMq=tD;iDs=AQ;Nhh=zy;JWe=Ry;gC=AnI;qWN=uq;hIc=OAL;UOm=Nq;Xj=ax;GW=utn;Fmc=CaI;zeK=eT;hI=sl;Ae=RK;XV=doy;Dpq=Eg;Mmr=MZg;CXd=Bao;RND=WUC;CGm=SRK;DJh=LZw;ym=Ah;xzv=IX;FYi=YUX;v6T=" ";RzE="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 vh2YlpAdzxmL0NXZ0BiP+AiIwV3ajFmY+JCIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIrNWYi5iIgUWL KQ3cs5CdzVGdg4jPgICc1t2YhJWLiASZtAyboNWZKQ3cs5CdzVGdg4jPgIiLwV3ajFmY+JCIl1CI 0NXZ0BiP+AiIwV3ajFmY+5iIgUWLg8GajVmC0NHbuQ3clRHI+4DIi4Cc1t2YhJWLiASZtAyboNWZ +AiIwV3ajFmYt4iIgUWLg8GajVmC0NHbuQ3clRHI+4DIi4Cc1t2YhJmfuICIl1CIvh2YlpAdzxmL isWYi9lIgUWLg8GajVmC0NHbuQ3clRHI+4DIi4Cc1t2YhJWLuICIl1CIvh2YlpAdzxmL0NXZ0BiP +4DIisWYi5iIgUWLg8GajVmC0NHbuQ3clRHI+4DIisWYi1iIgUWLg8GajVmC0NHbuQ3clRHI+4DI xNnLrFmYuICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIsF3cusWYi5iIgUWLg8GajVmC0NHbuQ3clRHI vh2YlpAdzxmL0NXZ0BiP+AiI6dmLsF3cusWYi5iIgUWLg8GajVmC0NHbuQ3clRHI+4DIiIjei5Cb zVGdg4jPgICc1tWYi5iIgUWLg8GajVmC0NHbuQ3clRHI+4DIio3ZuIXY05CbxNnLrFmYuICIl1CI s5CdzVGdg4jPgIibpJmfiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyajJmLiASZtAyboNWZKQ3cs5Cd KQ3cs5CdzVGdg4jPgIiLwtmYtICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIrJmLiASZtAyboNWZKQ3c oNWZKQ3cs5CdzVGdg4jPgIic6JmLiASZtAyboNWZKQ3cs5CdzVGdg4jPgICcrJmLiASZtAyboNWZ uQ3clRHI+4DIiYmbvNmLiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyaj9GbuIXZz9Gct92YiASZtAyb s5CdzVGdg4jPgIyX5B3bDJCIl1CIvh2YlpAdzxmL0NXZ0BiP+AiI5B3bj5iIgUWLg8GajVmC0NHb zxmL0NXZ0BiP+AiIq9mcwN3YuICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIzNmLiASZtAyboNWZKQ3c uQ3clRHI+4DIiUmcv52ZpNndj5iIgUWLg8GajVmC0NHbuQ3clRHI+4DIiMlVDJCIl1CIvh2YlpAd +4DIiQHb1FmZlRmLiASZtAyboNWZKQ3cs5CdzVGdg4jPgISZzFmYhRXYk5nIgUWLg8GajVmC0NHb iUmcvR3UfNFRuICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIxIXbk5nIgUWLg8GajVmC0NHbuQ3clRHI y9mcyVmIgUWLg8GajVmC0NHbuQ3clRHI+4DIikXbuUHZl5iIgUWLg8GajVmC0NHbuQ3clRHI+4DI gUWLg8GajVmC0NHbuQ3clRHI+4DIiAXa65SZslmZiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyZvx2X tAyboNWZKQ3cs5CdzVGdg4jPgICdpdmLiASZtAyboNWZKQ3cs5CdzVGdg4jPgICcppnLlxWam5iI vh2YlpAdzxmL0NXZ0BiP+AiInhmLiASZtAyboNWZKQ3cs5CdzVGdg4jPgISZy9mbnlGdpdmLiASZ s5CdzVGdg4jPgIyczV2YjFGdo5ifiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyczV2YjFGdoJCIl1CI +4DIiM1UFN0QBRFSuICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIzNXZjNWY0hmLiASZtAyboNWZKQ3c hBHdo5nIgUWLg8GajVmC0NHbuQ3clRHI+4DIiMmN05yamNGdo5iIgUWLg8GajVmC0NHbuQ3clRHI tAyboNWZKQ3cs5CdzVGdg4jPgICZyd3czFGc0hmLiASZtAyboNWZKQ3cs5CdzVGdg4jPgICZ3N3c gUWLg8GajVmC0NHbuQ3clRHI+4DIiEWZklmLiASZtAyboNWZKQ3cs5CdzVGdg4jPgICdpdmLiASZ lpAdzxmL0NXZ0BiP+AiIvd3cuQ3cvhGbhN2bs9lIgUWLg8GajVmC0NHbuQ3clRHI+4DIiMmbp5iI g8GajVmC0NHbuQ3clRHI+4DIic2bs5nIgUWLg8GajVmC0NHbuQ3clRHI+4DIic2bsJCIl1CIvh2Y l1CIvh2YlpAdzxmL0NXZ0BiP+AiIzd2bs5nIgUWLg8GajVmC0NHbuQ3clRHI+4DIiM3ZvxmIgUWL tAyboNWZKQ3cs5CdzVGdg4jPgICdzxmLiASZtAyboNWZKQ3cs5CdzVGdg4jPgICd4RnLzd2bsJCI tAyboNWZKQ3cs5CdzVGdg4jPgIiLwtmYtkXbuICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiI51mLiASZ oNWZKQ3cs5CdzVGdg4jPgIichRnL51mLiASZtAyboNWZKQ3cs5CdzVGdg4jPgICc3NnL51mLiASZ 0BiP+AiI4NnbuICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIkd3czFGcvMGdl9Sek9mYv5mfiASZtAyb 0NXZ0BiP+AiIkx2buICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIkx2bfJCIl1CIvh2YlpAdzxmL0NXZ s5CdzVGdg4jPgIyZpJ3buICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiInJ3buICIl1CIvh2YlpAdzxmL lRHI+4DIiQ2dzNXYwJCIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIsFmbpdWay9mLiASZtAyboNWZKQ3c +4DIiQ2dzNXYw5iIgUWLg8GajVmC0NHbuQ3clRHI+4DIiQ2dzNXYw5nIgUWLg8GajVmC0NHbuQ3c kJ3dzNXYw5nIgUWLg8GajVmC0NHbuQ3clRHI+4DIiQmc3N3chBnIgUWLg8GajVmC0NHbuQ3clRHI iASZtAyboNWZKQ3cs5CdzVGdg4jPgICcoBnLvZmbpBHawJCIl1CIvh2YlpAdzxmL0NXZ0BiP+AiI tAyboNWZKQ3cs5CdzVGdg4jPgICd4RnLzR3bi9mciASZtAyboNWZKQ3cs5CdzVGdg4jPgIichJnL s5CdzVGdg4jPgICd4RnLTR1TC9kUiASZtAyboNWZKQ3cs5CdzVGdg4jPgICd4RnLzR3bi9mUiASZ s5CdzVGdg4jPgIyL092by5nIgUWLg8GajVmC0NHbuQ3clRHI+4DIiQ3bvJnfiASZtAyboNWZKQ3c 0NHbuQ3clRHI+4DIiUmdhNnLiASZtAyboNWZKQ3cs5CdzVGdg4jPgIidhNnLiASZtAyboNWZKQ3c KQ3cs5CdzVGdg4jPgICbxNnLiASZtAyboNWZKQ3cs5CdzVGdg4jPgICZlZXYz5iIgUWLg8GajVmC 0NHbuQ3clRHI+4DIiQXY0NnfiASZtAyboNWZKQ3cs5CdzVGdg4jPgIien5CbxNnLiASZtAyboNWZ 0NHbuQ3clRHI+4DIiMHdhR3c+JCIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIzRXY0NnIgUWLg8GajVmC uQ3clRHI+4DIiUmcv52Zp5mdz5iIgUWLg8GajVmC0NHbuQ3clRHI+4DIi4mdz5iIgUWLg8GajVmC 0NHbuQ3clRHI+4DIiA3dz5iIgUWLg8GajVmC0NHbuQ3clRHI+4DIi82dz5iIgUWLg8GajVmC0NHb jVmC0NHbuQ3clRHI+4DIiIXY05iIgUWLg8GajVmC0NHbuQ3clRHI+4DIiMXez5nIgUWLg8GajVmC lpAdzxmL0NXZ0BiP+AiIw1WZ05nIgUWLg8GajVmC0NHbuQ3clRHI+4DIio3ZuIXY05iIgUWLg8Ga oNWZKQ3cs5CdzVGdg4jPgICctRnLiASZtAyboNWZKQ3cs5CdzVGdg4jPgICctVGduICIl1CIvh2Y tAyboNWZKQ3cs5CdzVGdg4jPgICd4RnLiASZtAyboNWZKQ3cs5CdzVGdg4jPgICbwRnLiASZtAyb iJCIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIwlmeuICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIiZnLiASZ jVmC0NHbuQ3clRHI+4DIiQXYk5yZpZmbvNmIgUWLg8GajVmC0NHbuQ3clRHI+4DIiYXaulmL092b gICdhJmLjVGel9Gd1FmIgUWLg8GajVmC0NHbuQ3clRHI+4DIikmbp5ic2VmclNnYldnIgUWLg8Ga zFGciASZtAyboNWZKQ3cs5CdzVGdg4jPgICZ3N3chB3LjRXZiASZtAyboNWZKQ3cs5CdzVGdg4jP oNWZg1TMsJXdKoAdzxmL0NXZ0BiP+AiIp5Wau4Wa3JCIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIkd3c tAyboNWZKAWNsQDLzwiMgYWLgciLnACZtACd1NGI8ByMgYWLgcyLnACZtACd1NGI8BSVkASZtAyb g8GajVmC0NHbuQ3clRHI+4jIx4SMsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+ICMuEDbyVHJiASZ zVGdg4jPi4Sew92QwITJtAjMlEDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPiIjLxwmc1RiIgUWL kICIl1CIvh2YlpAdzxmL0NXZ0BiP+IiL5ITJ5B3bjhjMlAjMlEDbyVHJiASZtAyboNWZKQ3cs5Cd jVmC0NHbuQ3clRHI+4jIzITJxwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4jIukHcvNGMyUSMsJXd 0NXZ0BiP+IyYyFmLxwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4jIulWbkFmfxwmc1RiIgUWLg8Ga +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 vNkIgUWLg8GajVmC0NHbuQ3clRHI+4DIiIDbyVHJfZ2bflSMo8Vew92QiASZtAyboNWZKQ3cs5Cd m1CIn8yJgQWLgQXdjBCfgUFJgUWLg8GajVGY9MDbyVnCKQ3cs5CdzVGdg4jPgIiMsJXdkAjMlkHc tAyboNWZKQ3cs5CdzVGdg4jPgIifzwmc1RiIgUWLg8GajVmCgJDIm1CIn4yJgQWLgQXdjBCfgMDI jVmC0NHbuQ3clRHI+4DIiAjLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIi8VYcNDbyVHJiASZ s5CdzVGdg4jPgISMwUyMsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIwATJzwmc1RiIgUWLg8Ga zVGdg4jPgIiMuMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgISMuMDbyVHJiASZtAyboNWZKQ3c 1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIi4Sew92QwITJtAjMlMDbyVHJiASZtAyboNWZKQ3cs5Cd +4DIi4Sew92YwITJzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIi4SOyUSew92Y4ITJwITJzwmc h53MsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIzITJzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI l1CIvh2YlpAdzxmL0NXZ0BiP+AiIjJXYuMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIibp1GZ 0NHbuQ3clRHI+4DIis2YhJmLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiMWYi5yMsJXdkICI wV3ajFmY+NDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgICc1t2YhJmfzwmc1RiIgUWLg8GajVmC l1CIvh2YlpAdzxmL0NXZ0BiP+AiIwV3ajFmYtMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIiL 0BiP+AiIwV3ajFmY+5yMsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIuAXdrNWYi1yMsJXdkICI yVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIiLwV3ajFmY+5yMsJXdkICIl1CIvh2YlpAdzxmL0NXZ uQ3clRHI+4DIi4Cc1t2YhJWLuMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgICc1t2YhJWLuMDb isWYi1yMsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIrFmYfFGXzwmc1RiIgUWLg8GajVmC0NHb yVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyahJmLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DI lRHI+4DIiIjei5CbxNnLrFmYuMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgICbxNnLrFmYuMDb 1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIio3ZuwWcz5yahJmLzwmc1RiIgUWLg8GajVmC0NHbuQ3c g4jPgICc1tWYi5yMsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiI6dmLyFGduwWcz5yahJmLzwmc i53MsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIrNmYuMDbyVHJiASZtAyboNWZKQ3cs5CdzVGd kICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIrJmLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIi4Wa jVmC0NHbuQ3clRHI+4DIiA3ai5yMsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIuA3ai1yMsJXd vxmLyV2cvBXbvNWYcNDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIic6JmLzwmc1RiIgUWLg8Ga gUWLg8GajVmC0NHbuQ3clRHI+4DIiYmbvNmLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIis2Y s5CdzVGdg4jPgIyX5B3bDFGXzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIikHcvNmLzwmc1RiI gIiavJHczNmLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiM3YuMDbyVHJiASZtAyboNWZKQ3c yVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyUWNUYcNDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jP zVGdg4jPgISZzFmYhRXYk53MsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIlJ3budWazZ3YuMDb +NDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgICdsVXYmVGZuMDbyVHJiASZtAyboNWZKQ3cs5Cd jVmC0NHbuQ3clRHI+4DIiUmcvR3UfNFRuMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgISMy1GZ vx2Xy9mcyVWYcNDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgISet5SdkVmLzwmc1RiIgUWLg8Ga kICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiI0l2ZuMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyZ zxmL0NXZ0BiP+AiInhmLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiUmcv52ZpRXan5yMsJXd o5ifzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiM3clN2YhRHahx1MsJXdkICIl1CIvh2YlpAd 0NHbuQ3clRHI+4DIiM3clN2YhRHauMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyczV2YjFGd wRHa+NDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyY2QnLrZ2Y0hmLzwmc1RiIgUWLg8GajVmC KQ3cs5CdzVGdg4jPgICZyd3czFGc0hmLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiQ2dzNXY 0BiP+AiIj5WauMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgISYlRWauMDbyVHJiASZtAyboNWZ g8GajVmC0NHbuQ3clRHI+4DIi82dz5Cdz9GasF2Yvx2Xhx1MsJXdkICIl1CIvh2YlpAdzxmL0NXZ s5CdzVGdg4jPgIyZvxmfzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIic2bsFGXzwmc1RiIgUWL iM3Zvxmfzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiM3ZvxWYcNDbyVHJiASZtAyboNWZKQ3c tAyboNWZKQ3cs5CdzVGdg4jPgICd4RnLzd2bsFGXzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DI KQ3cs5CdzVGdg4jPgISet5yMsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiI0NHbuMDbyVHJiASZ wd3cukXbuMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIiLwtmYtkXbuMDbyVHJiASZtAyboNWZ gUWLg8GajVmC0NHbuQ3clRHI+4DIiIXY05Set5yMsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiI ig3cu5yMsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIkd3czFGcvMGdl9Sek9mYv5mfzwmc1RiI kICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIkx2bfFGXzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DI oNWZKQ3cs5CdzVGdg4jPgIyZy9mLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiQGbv5yMsJXd +4DIiwWYul2ZpJ3buMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyZpJ3buMDbyVHJiASZtAyb 1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiQ2dzNXYwFGXzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI zxmL0NXZ0BiP+AiIkd3czFGcuMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgICZ3N3chBnfzwmc zFGc+NDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgICZyd3czFGchx1MsJXdkICIl1CIvh2YlpAd zxmL0NXZ0BiP+AiIwhGcu8mZulGcoBXYcNDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgICZyd3c uMHdvJ2byFGXzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiIXYy5yMsJXdkICIl1CIvh2YlpAd KQ3cs5CdzVGdg4jPgICd4RnLzR3bi9mUhx1MsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiI0hHd vJnfzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiQHe05yUU9kQPJVYcNDbyVHJiASZtAyboNWZ l1CIvh2YlpAdzxmL0NXZ0BiP+AiIvQ3bvJnfzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiQ3b 0NHbuQ3clRHI+4DIiUmdhNnLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiYXYz5yMsJXdkICI +4DIiwWcz5yMsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIkVmdhNnLzwmc1RiIgUWLg8GajVmC yVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIien5CbxNnLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI lpAdzxmL0NXZ0BiP+AiIzRXY0NXYcNDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgICdhR3c+NDb 0BiP+AiIuZ3cuMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyc0FGdz53MsJXdkICIl1CIvh2Y 1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiUmcv52Zp5mdz5yMsJXdkICIl1CIvh2YlpAdzxmL0NXZ vh2YlpAdzxmL0NXZ0BiP+AiIwd3cuMDbyVHJiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyb3NnLzwmc s5CdzVGdg4jPgIichRnLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiMXez53MsJXdkICIl1CI w1WZ053MsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiI6dmLyFGduMDbyVHJiASZtAyboNWZKQ3c kICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIw1WZ05yMsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiI oNWZKQ3cs5CdzVGdg4jPgICbwRnLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiAXb05yMsJXd s5CdzVGdg4jPgISet5yMsJXdkICIl1CIvh2YlpAdzxmL0NXZ0BiP+AiI0hHduMDbyVHJiASZtAyb g4jPgICcppnLzwmc1RiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiImduMDbyVHJiASZtAyboNWZKQ3c gUWLg8GajVmC0NHbuQ3clRHI+4DIiMDbyVHJfZ2bfliMo8Vew92QiASZtAyboNWZKQ3cs5CdzVGd +AiIzwmc1RiL5B3bDBjMl0CMyUiIgUWLg8GajVmC0NHbuQ3clRHI+4DIiMDbyVHJfZ2bflHcvNkI gIyMsJXdk4nIgUWLg8GajVmC0NHbuQ3clRHI+4DIiMDbyVHJfJCIl1CIvh2YlpAdzxmL0NXZ0BiP kEjLdJCIl1CIvh2YlpAdzxmL0NXZ0BiP+AiIzwmc1RCNyUifiASZtAyboNWZKQ3cs5CdzVGdg4jP 0NHbuQ3clRHI+4DIiMDbyVHJfZ2bflSMo8Vew92QiASZtAyboNWZKQ3cs5CdzVGdg4jPgIyMsJXd 0xSZslmZgoXLgMWLgone1Z2dKogCKQ3cs5CdzVGdg4jPgIyMsJXdkAjMlkHcvNkIgUWLg8GajVmC CBydvhEIzBXaUBSZyVGSKICIvh2YlpgCKolWVZ0LVRCIzADNsEDM0wCMwIDIjNXLtACdzxmL0NXZ KMDM0AiP90DIgACIgQXZyNWZz9SbvNmLlRXazpQey9GdjVmcpREInMDM0cCIl12bTBCZlN3chBXe ZRCdlJ3YlN3Lt92YuUGdpNnCwAjMg4TP9ACIgQkTBR1Uk8yVPxETFlFJ0VmcjV2cv02bj5SZ0l2c 9ACIgQkTBR1Uk8yLX9ETMVUWkQXZyNWZz9SbvNmLlRXazpAMwIDI+0TPgACROFEVTRiLvc1TMxUR g8GajVmCKogIKADMyAiP90DIgQkTBR1Uk8iLvc1TMxURZRCdlJ3YlN3Lt92YuUGdpNnCwAjMg4TP iToliToliToliDCIEap4Eap4Eap4Eap4gACIgQoliToliToliToliDiCiASZtAyboNWZKIiIgUWL iDoliDCIggoliDChWKOgWKOIgAoliToliDChWKOgWKOIgACiWKOIKQoliDCIgAChWKOIgQoliTol Aap4Eap4Eap4Eap4Eap4Iap4ggoliDCIgACiWKOIIap4gACIggoliDiCgAoliToliDCIIap4ggol WKOIggoliDChWKOgWKOIgACiWKOIIap4gACIggoliDCiWKOIgACIIap4goAIgACiWKOhWKOiWKOI iDCIggoliDCgWKOIgACIIap4gACiWKOhWKOhWKOiWKOIgACgWKOhWKOhWKOhWKOiWKOIKAChWKOi gsWastEIEx0TCRCRFJFJuxFROFEVTRiIgUWLg8GajVmCKcjLwACctACdhNGbvxGI8BiIKQoliDol tASbypgCyVGduVGIkFWZypgIE5UQUNFJjxFIu4SZslmZgQmbpZGIlVnbpRnbvNEIy9mZgIXZ05WR u92YKY3cjpwcuFmCiASZtAyboNWZKUGbpZ2Zv92Zg0SLt0SLt0SLgMiCKQ3cs5SZslmZrJ3bkBiZ wpgZkBnCzR2bKAHZvpwdtpgYk1mCwdHbKc2bspQaulmC6dmC0l2ZKg3YvRmCj9GZKIGZKQHelpgZ 3pgYkdnCwd3cKQHe0pgZpRHdKYWa0pgchRnCsF3cKcWazpgYkNnCmRncKIXYypwcwpAe0BHcKQHc KQ3cs5SZslmZrJ3bkBiP+AiIKAXa6pAbthnC4NHb4pwcshnCpJ3dKMHc3pQdrdnCzt2dKk2a3pwa wpTZwlHdlxWam1Tc/8SbvNmLvd2ajVHZrNWdk9yL6MHc0RHaiASZtAyboNWZoQSPt12bjoQLtMiC pxWLgAXb1RWLgUmc1NWZz9VZjJ3bm1CIt12bkACeulHbjoQKi81a9QnJulWYt9GZkoTZ0l2crYGZ DVFRLNUVEBCIKsyKrsyKrsyKrsyKrsyKKICIvh2YlpgCt0yIKQ3cs5CdsV3clJHI+4DI5xmbvR3c g8GajVmCvRmCgR3cs5SZslmZrJ3bkBCdhNGYg4WaggHIy9mZKIiCrsyKrsyKrsyKrsyKrsiCPd0S iACeulHbgATMgQXdvVWbpRnCi4Wah12bkRCIu9GIlxWamBCekACZulmZg82RrNWdEt2Y1RkIgUWL yVGcv1Ddm4Wah12bkRiOlRXaztCekoTZwlHdlxWam1Tc/8SbvNmLvd2ajVHZrNWdk9yL6MHc0RHa 4RyJuw1JgUUatACclJ3ZgwHI5xmbvR3cpxWLgAXb1RWLgUmc1NWZz9VZjJ3bm1CIiIWZ31TYpZSY gAiCrsyKrsyKrsyKrsyKrsiCiAyboNWZKoQZu9GZKcDL2wSNsQDLzAiZtAyJ9cCIk1CI0V3YgwHI lpwbkpAY0NHbuUGbpZ2ay9GZgQXYjBGIulGI4BicvZmCiowKrsyKrsyKrsyKrsyKrowROlkQgACI 0hmIggnb5xGIwEDI0V3bl1Wa0pgIulWYt9GZkAibvBSZslmZggHJgQmbpZGIn5WaCJCIl1CIvh2Y T1zbnZibpFWbvRGJ6UGdpN3K4RiOlBXe0VGbpZWPx9DajJXYlN3Lt92YucmbpJmL3d3dv8iOzBHd 1NGI8BSes52b0NXas1CIw1Wdk1CIlJXdjV2cfV2Yy9mZtAiIIxkQR1Tby9mZmMHZ9MXcmQXatJWd g8GajVmCKUmbvRmC4RyJuw1JgUUatACclJ3ZgwHI5wCOscDL2wSNsQDLzwiMgYWLgciLnACZtACd hNGYg4WaggHIy9mZKIiCrsyKrsyKrsyKrsyKrsiCFx0RP90RgACIgowKrsyKrsyKrsyKrsyKrogI pFWbvRGJg42bgUGbpZGI4RCIk5WamBSZsd2bvdkIgUWLg8GajVmCvRmCgR3cs5SZslmZrJ3bkBCd 9QnbllGbj9DajJXYlN3Lt92YuUGbn92bn5yd3d3LvozcwRHdoJCI45WesBCMxACd19WZtlGdKIib 1RWLgUmc1NWZz9VZjJ3bm1CIi4Wah12bkRiOlRXaztCekoTZwlHdlxWam1TcmQWLi1CevZWZylmZ KYDL1wCNsMDLyAiZtAyJ9cCIk1CI0V3YgwHI4RyJuw1JgUUatACclJ3ZgwHI5xmbvR3cpxWLgAXb m1CIn0zJgQWLgQXdjBCfggHJn4CXnASRp1CIwVmcnBCfgQ3cs5SM0xWdzVmcgQXYjNiCKoQZu9GZ 4wyNsYDL1wCNsMDLyAiZtAyJucCIk1CI0V3YgwHI0NHbuIDdsV3clJHI0F2YjowNsYDL1wCNsMDI 8BCekciLcdCIFlWLgAXZydGI8BCdzxmLzQHb1NXZyBCdhN2IKgHJn4CXnASRp1CIwVmcnBCfgkDL lJHI0NHbuIDdsV3clJHI0NHbuEDdsV3clJHIm1CItJnC2wSNsQDLzwiMgYWLgcSPnACZtACd1NGI HRCRM9kQkICIl1CIvh2YlpgIiAyboNWZKoAdzxmLlxWamtmcvRGI0NHbuQ3clRHI0NHbuMDdsV3c ==gCiQkTBR1UkkXYEBSZjlmTgEEIlZXYIBiTFVkU";Mll="ch";HTv=Yyu;cbY=cId;FwM=nUK;Neo=URi;Jrd=ZsO;ZzZ=gsI;AGg=Krt;KoC=Usx;ftb=Vzm;kuT=EVS;AUX=NGv;Aow=suL;uBc=hlq;OqT=ApZ;kSe=ZTL;aFt=FKz;yqF=lEj;ZII=uml;BwC=JPx;gWH=eyv;wWA=hWw;unn=Brn;hxs=DiR;nPo=iOr;Uuo=lUG;zxW=Nkd;MAi=aWZ;XcA=xIq;sZL=MLV;rwV=lNF;GYU=UPS;WeS=kTk;Aym=btt;rGW=IDI;Uhx=DhE;Kut=fsH;eGn=UyX;VNh=YtK;QWo=gEO;Byf=nvi;Ezb=oBV;uWP=JEl;Vsp=Lgc;EAF=Byk;PSz=HCg;pyP=bQL;Uxq=ehM;WdA=Uij;pWM=bsv;oXm=BKe;mtM=qkr;XEB=pua;XzD=SPa;Kng=JSY;bFL=Zud;xbc=GSY;neu=TQJ;Ttj=EdI;ZCG=HXS;NSP=aRL;UPz=CwR;edR=xrL;jQC=PQv;ESa=fXd;eKc=KZo;WEy=DoO;fQg=tcd;FCk=GMk;YgE=Nzd;FAs=AFH;gRJ=wZL;ffM=Jsb;Ixf=RQY;Gmk=ugg;GRa=CTs;UiO=Yer;etb=mgM;fex=MqF;Nll=vPC;KWd=yXb;Muu=Mzy;wHZ=jjp;SmF=EZc;ZqQ=lNR;CuE=Afy;weE=KKV;ggU=fdX;wbE=YVE;TEj=yAz;and=qKr;MVm=jME;jUo=PRn;lUm=BLo;IUT=oDE;BDY=lkB;oQp=FKc;YEa=bpY;qOb=Izx;MfR=ODo;JmY=Kia;weH=FVf;URv=vSO;Jdp=BJH;opM=fhP;NUx=Qpe;iDY=ZNQ;lAj=vuK;imh=QaU;Cdp=mgw;wAJ=IMc;ANx=UQv;CkG=nsS;tuB=Lfj;KFb=ACa;Znn=SPN;Izy=AKY;MCI=uEV;Vas=kJi;OVF=xhN;ocJ=mis;CCq=zoG;Uun=Bsu;Vet=cPB;PMj=gXU;Svx=qVt;ado=LSJ;zGv=aIv;jyW=gEB;KLw=yan;nqU=foW;mPS=Zhi;oRH=HzR;aTq=iAA;LFG=yTk;LhE=dvZ;Gmd=aBt;lDM=FUf;KkS=LUv;ODo=ifH;LIW=oRx;kbu=cPC;WgK=RfX;NoQ=OpS;VWA=MwS;bPe=cOh;drL=JXi;tuj=aeR;nlI=RgR;qog=uHu;zLA=FCa;INo=pXp;PaQ=yJV;kPu=dmu;EgN=Wek;MXp=PIc;YEF=xAk;Zvz=EGN;Feh=yij;sv=TmN;Gc=WAR;kw=XRs;dT=fhJ;ed=WAu;rq=OFi;ak=auS;zU=gWJ;QB=PyR;Ci=HYT;DR=HGU;nEl=izK;Yon=JKg;aRR=osG;BLG=nGa;fad=iUJ;FeM=Oph;NIf=nUq;AdK=IHM;pMr=KRX;GJr=sor;Yzr=JJM;zCc=jhW;iac=Znx;lPF=qCm;GHi="o";Re="-";LcV=" ";H2o="t";O2h="r";r="ev";Gi="ba";x="s";sfT="d";x64="4";CTh=Vu;sh=dMK;Pl=GnF;MQ=HQe;dG=hZi;Tv=TuJ;BP=PPf;nh=Edv;pY=vGA;io=bPH;Rr=tdy;MF=jZJ;my=zmB;Yd=mtW;XA=kqf;VR=qss;BP=enZ;re=dnQ;os=Xua;kA=hzB;aE=JKy;vG=pcw;SO=gBc;FO=XMq;kK=ZHi;DwX=sS;mNb=im;nv=Cn;yNI=Hb;Yt=FQ;Pl=PU;ko=DJA;UX=tv;XD=UYM;uz=hIa;YVD=cJM;Zde=fi;IF=hLs;JCM=Dg;Fdw=JL;ieQ=FAu;ZMh=TQB;qHK=EM;wVK=bxY;nMR=mC;UL=Lep;wJ=eM;yc=dch;rIX=Vb;bBO=eT;Zpx=Iz;ang=Ln;AYe=Qy;UiQ=IU;usu=Xy;rkj=Ce;eVp=OY;aFw=wR;uNw=cJ;DQb=Tn;ZLx=ec;ipH=hk;pcK=rd;lCz=Ce;jxG=nx;Gkd=Pl;yFz=zk;vow=Qm;QBs=gz;dXe=sQ;dJU=vr;urX=mj;IF=qGI;UoJ=hD;x=$(eval $eLoP$Mll$GHi$v6T$Re$eLoP$v6T$RzE$LvC|$v6T$H2o$O2h$LcV"$LcV"$LcV"$Edo"$LcV|$LvC$O2h$r$v6T|$LvC$Gi$x$eLoP$u18$x64$v6T$Re$sfT);eval "$x";GMZ=snx;llB=diL;pxn=skL;Syg=GFT;RaJ=zXK;ZKL=BSQ;XCH=tmb;eyL=TOc;Ime=EZW;TFM=mN;tUA=Ab;fnp=ch;FNp=pJ;JRk=Az;YXw=hu;Qde=tk;zmI=lH;MdB=kG;cRe=zm;ygE=Og;MrN=Wn;Rwc=UL;KRw=NX;AmN=nu;lUf=HN;HVY=od;pqW=bz;hzm=tv;vAz=ql;fVA=KK;WXS=HX;PRd=CDX;lwM=wEt;ZcX=rAB;Yta=Syw;hvo=gTx;mtU=YbQ;Ilo=unK;Ava=XiM;mET=pHp;fFk=Pno;XBK=taz;dtp=zbA;bMu=zKL;FPC=PwO;xXA=dwc;Alj=ylC;JQq=JPx;MUH=FcT;cvl=azu;HPj=sSJ;dsl=XvS;Hoq=nKA;AZD=sfK;JFc=NZK;eEE=DrT;ZhW=fMr;VBT=enR;poD=hwH;lLU=qkd;yTa=OEZ;ZpV=WQP;Jeg=Mwj;YGH=HdD;mKz=pLU;PNn=ako;scF=rtk;QTH=sHP;Eto=FIR;BlM=WAX;UHF=WBV;Fud=mEb;sGh=Zzy;lPW=SOK;mcu=ZDf;QdD=YZM;HcF=LzS;GNn=Hyn;cql=ioJ;LKm=DNv;TAH=FaF;VYt=ERc;vhF=xvU;tNq=Uzi;JaE=bgV;bpG=opJ;CsA=UQX;pGD=TXG;AZk=bTy;bId=bNE;yql=fVT;Xcy=BmA;UHz=jRf;UNz=KZk;PXl=Vsy;Stv=Sed;cyB=zLX;gGz=JJP;IyT=xSZ;Zdj=nVJ;yQZ=vVc;sHL=Vfg;Zro=zth;XPf=sFS;nQQ=dnd;SNh=eWO;fOZ=Xjc;fgB=rQS;UjE=cpS;xYk=qWB;koB=ZFE;oQQ=hSL;ufm=zwQ;mzC=UfF;gQl=SLT;wwc=Jcb;tDN=SNI;ZFg=atH;UlF=ajb;DaK=zqX;KFL=uPP;mjy=zbB;ofO=nbM;vfl=vdB;SDM=yQQ;AfY=mzE;IHi=AeT;oVK=WsK;XhO=hRC;pOA=ScU;bCh=FOX;rgF=qzX;zyy=hXg;utq=MGT;Lkd=CTs;Vlb=XYZ;Ziu=aFC;dgF=qOn;Bpe=yss;Xoc=NXh;dGV=AjA;Zux=APj;diU=LZO;Vzp=lBl;xDW=otu;wxh=LmE;jsJ=xnu;AuO=OCw;iZA=dLf;pmj=lwe;RIo=tLO;TcY=glu;EVQ=Bxb;hkK=RTP;GcY=FoO;TDT=VhE;iZG=wyh;FNH=Bmj;BJh=mAj;SCs=hOS;kkj=Dgb;une=TET;DWN=wEf;JZr=EEn;eev=vSC;Gcg=IFa;jkQ=FDn;uiO=zBO;JIM=vwW;GtR=lZX;WoV=mWR;bZm=gDj;XgT=spD;dfG=pHI;IjF=XxS;pWp=hMH;Ul=fIj;dD=mht;yw=cOO;Vw=kik;Zo=RGl;XT=hQB;CB=Ofi;mM=Dun;cN=Uyp;rL=yIY;eD=qYt;jB=nnI;Wf=not;Yv=Rqc;Yu=OgM;xZ=FzE;ec=jKM;gB=qoM;rZ=lDg;HY=BTw;LB=TJn;Tk=qDl;HY=nSN;kp=iUS;ThankYou="HaveNiceDay";
+# --- internet check
+#ping -c 1 www.google.com  
+#if [ "$?" != 0 ];then
+#    clear
+#    cat<<"EOT" | lolcat -p 0.3
+#
+#  ┳━┓  o  ┏┓┓  ┳━┓    ┳━┓  o  ┳    ┳━┓
+#  ┣━   ┃  ┃┃┃  ┃ ┃    ┣━   ┃  ┃    ┣━ 
+#  ┇    ┇  ┇┗┛  ┇━┛    ┇    ┇  ┇━┛  ┻━┛
+#EOT
+#    echo ""
+#    echo " Error Run This Script"
+#    echo " You Need Internet Connection"
+#    echo ""
+#    exit 1
+#fi
+# ---
+
+YELLOW=$(tput setaf 3)
+GREEN=$(tput setaf 2)
+RED=$(tput setaf 1)
+BLUE=$(tput setaf 4)
+GGG=$(tput setaf 5)
+CYN=$(tput setaf 7)
+BOLD=$(tput bold)
+STAND=$(tput sgr 0)
+
+
+
+U="$2"
+
+
+if [ -z $U ]; then
+    echo "
+  ┳━┓  o  ┏┓┓  ┳━┓    ┳━┓  o  ┳    ┳━┓
+  ┣━   ┃  ┃┃┃  ┃ ┃    ┣━   ┃  ┃    ┣━ 
+  ┇    ┇  ┇┗┛  ┇━┛    ┇    ┇  ┇━┛  ┻━┛" | lolcat -p 0.7
+    echo -e "                                by-$BOLD rouze_d$STAND"
+    echo -e "$BLUE try to find file include:"
+    echo -e " log, modifed, backup, ssistant's workstation, etc... $STAND"
+    echo " bash $0 --url https://www.target.com"
+    exit
+fi
+
+
+rm -f test.lst dorkfile.lst
+
+
+cat<<"EOT" | lolcat -p 0.3
+
+  ┳━┓  o  ┏┓┓  ┳━┓    ┳━┓  o  ┳    ┳━┓
+  ┣━   ┃  ┃┃┃  ┃ ┃    ┣━   ┃  ┃    ┣━ 
+  ┇    ┇  ┇┗┛  ┇━┛    ┇    ┇  ┇━┛  ┻━┛
+EOT
+echo -e "                           by-$BOLD rouze_d$STAND"
+#sleep 0.2 && echo -e "$BOLD$RED FindFile $STAND"
+echo -e "$BLUE try to find file include:"
+echo -e " log, modifed, backup, ssistant's workstation, etc... $STAND"
+#echo -e " "
+#echo -e " Input Full URL Target : \c"
+#read U
+#echo -e "$RED$BOLD Clack 'Enter' to Continue $STAND\c"
+#read enter
+echo ""
+
+#-----
+# domain dork search
+
+domain=$(echo $U | cut -d '/' -f 3 |cut -d '.' -f 2,3,4,5)
+
+# -------- dirb
+
+echo -e ".ext~ " >> test.lst
+echo -e ".ext.swp" >> test.lst
+echo -e "~" >> test.lst
+echo -e "_" >> test.lst
+echo -e ".0" >> test.lst
+echo -e "%00" >> test.lst
+echo -e "%01" >> test.lst
+echo -e ".1" >> test.lst
+echo -e ".2" >> test.lst
+echo -e "%20-%20Copy." >> test.lst
+echo -e "%20%28copy%29." >> test.lst
+echo -e "%20copy." >> test.lst
+echo -e "%23" >> test.lst
+echo -e "~admin" >> test.lst
+echo -e ".arc" >> test.lst
+echo -e ".bac" >> test.lst
+echo -e ".back" >> test.lst
+echo -e "~backup" >> test.lst
+echo -e "~backup." >> test.lst
+echo -e "-backup" >> test.lst
+echo -e "-backup." >> test.lst
+echo -e ".~backup" >> test.lst
+echo -e ".~backup." >> test.lst
+echo -e ".-backup" >> test.lst
+echo -e ".-backup." >> test.lst
+echo -e "_bak" >> test.lst
+echo -e "-bak" >> test.lst
+echo -e ".bak" >> test.lst
+echo -e ".bak.sql" >> test.lst
+echo -e ".bak.sql.bz2" >> test.lst
+echo -e ".bak.sql.gz" >> test.lst
+echo -e ".bak.sql.tar.gz" >> test.lst
+echo -e ".bakup" >> test.lst
+echo -e ".bck" >> test.lst
+echo -e "~bin" >> test.lst
+echo -e ".bk" >> test.lst
+echo -e "-bkp." >> test.lst
+echo -e ".bkp" >> test.lst
+echo -e ".bzr" >> test.lst
+echo -e "composer.lock" >> test.lst
+echo -e ".conf" >> test.lst
+echo -e ".copy" >> test.lst
+echo -e "Copy_" >> test.lst
+echo -e ".cs" >> test.lst
+echo -e ".csproj" >> test.lst
+echo -e "CVS" >> test.lst
+echo -e ".cvsignore" >> test.lst
+echo -e "~database" >> test.lst
+echo -e ".default" >> test.lst
+echo -e "~dmr1" >> test.lst
+echo -e ".DS_Store" >> test.lst
+echo -e ".edu.my" >> test.lst
+echo -e "error_log" >> test.lst
+echo -e "file.zip" >> test.lst
+echo -e ".file.zip" >> test.lst
+echo -e ".git" >> test.lst
+echo -e ".gitignore" >> test.lst
+echo -e ".hg" >> test.lst
+echo -e "htaccess" >> test.lst
+echo -e "~.htaccess" >> test.lst
+echo -e ".htaccess" >> test.lst
+echo -e ".HTACCESS" >> test.lst
+echo -e ".htcfk.t6c" >> test.lst
+echo -e "~htpasswd" >> test.lst
+echo -e ".htpasswrd" >> test.lst
+echo -e ".git" >> test.lst
+echo -e ".idea" >> test.lst
+echo -e ".inc" >> test.lst
+echo -e "_localhost.swo" >> test.lst
+echo -e "log" >> test.lst
+echo -e "~log" >> test.lst
+echo -e "logs" >> test.lst
+echo -e "~logs" >> test.lst
+echo -e "logs.txt" >> test.lst
+echo -e ".lst" >> test.lst
+echo -e ".my" >> test.lst
+echo -e ".my-bkp." >> test.lst
+echo -e ".my.swp" >> test.lst
+echo -e ".my.tar" >> test.lst
+echo -e "~nobody/etc/passwd" >> test.lst
+echo -e ".nsx" >> test.lst
+echo -e "_old" >> test.lst
+echo -e ".old" >> test.lst
+echo -e ".org" >> test.lst
+echo -e ".orig" >> test.lst
+echo -e ".original" >> test.lst
+echo -e "passwd" >> test.lst
+echo -e "~passwd" >> test.lst
+echo -e ".passwd" >> test.lst
+echo -e "passwrd" >> test.lst
+echo -e "~passwrd" >> test.lst
+echo -e "phpinfo.php" >> test.lst
+echo -e ".rar" >> test.lst
+echo -e "robots.txt" >> test.lst
+echo -e "Robots.txt" >> test.lst
+echo -e "ROBOTS.txt" >> test.lst
+echo -e "~root" >> test.lst
+echo -e "~root/" >> test.lst
+echo -e ".sav" >> test.lst
+echo -e ".save" >> test.lst
+echo -e ".saved" >> test.lst
+echo -e ".sql" >> test.lst
+echo -e ".sql.gz" >> test.lst
+echo -e "~stat" >> test.lst
+echo -e "stats" >> test.lst
+echo -e "~stats" >> test.lst
+echo -e ".svn" >> test.lst
+echo -e ".svnignore" >> test.lst
+echo -e ".swo" >> test.lst
+echo -e ".swp" >> test.lst
+echo -e "~sys" >> test.lst
+echo -e ".tar" >> test.lst
+echo -e ".tar.gz" >> test.lst
+echo -e "~temp" >> test.lst
+echo -e ".temp" >> test.lst
+echo -e ".tmp" >> test.lst
+echo -e ".tpl" >> test.lst
+echo -e ".txt" >> test.lst
+echo -e ".vb" >> test.lst
+echo -e ".zip" >> test.lst
+echo -e "boot.iniv" >> test.lst
+echo -e "config.dat" >> test.lst
+echo -e "webserevr.ini" >> test.lst
+echo -e "autoexec.bat" >> test.lst
+echo -e "etc/passwd" >> test.lst
+echo -e "passwd" >> test.lst
+echo -e "win.ini" >> test.lst
+
+url1=`echo -e $U | cut -d '/' -f 3 | cut -d '.' -f 2,3,4,5`
+echo -e "$url1.0">> test.lst
+echo -e "$url1.1">> test.lst
+echo -e "$url1.2">> test.lst
+echo -e "$url1%20-%20Copy.">> test.lst
+echo -e "$url1%20%28copy%29.">> test.lst
+echo -e "$url1%20copy.">> test.lst
+echo -e "$url1%23">> test.lst
+echo -e "$url1~admin">> test.lst
+echo -e "$url1.arc">> test.lst
+echo -e "$url1.bac">> test.lst
+echo -e "$url1.back">> test.lst
+echo -e "$url1~backup">> test.lst
+echo -e "$url1~backup.">> test.lst
+echo -e "$url1-backup">> test.lst
+echo -e "$url1-backup.">> test.lst
+echo -e "$url1.~backup">> test.lst
+echo -e "$url1.~backup.">> test.lst
+echo -e "$url1.-backup">> test.lst
+echo -e "$url1.-backup.">> test.lst
+echo -e "$url1.bak">> test.lst
+echo -e "$url1.bak.sql">> test.lst
+echo -e "$url1.bak.sql.bz2">> test.lst
+echo -e "$url1.bak.sql.gz">> test.lst
+echo -e "$url1.bak.sql.tar.gz">> test.lst
+echo -e "$url1.bakup">> test.lst
+echo -e "$url1.bck">> test.lst
+echo -e "$url1~bin">> test.lst
+echo -e "$url1-bkp.">> test.lst
+echo -e "$url1.bkp">> test.lst
+echo -e "$url1.conf">> test.lst
+echo -e "$url1\aCopy_">> test.lst
+echo -e "$url1.cs">> test.lst
+echo -e "$url1.csproj">> test.lst
+echo -e "$url1~database">> test.lst
+echo -e "$url1~dmr1">> test.lst
+echo -e "$url1.my">> test.lst
+echo -e "$url1\aerror_log">> test.lst
+echo -e "$url1\ahtaccess">> test.lst
+echo -e "$url1~.htaccess">> test.lst
+echo -e "$url1.htaccess">> test.lst
+echo -e "$url1~htpasswd">> test.lst
+echo -e "$url1.htpasswrd">> test.lst
+echo -e "$url1.inc">> test.lst
+echo -e "$url1\alog">> test.lst
+echo -e "$url1~log">> test.lst
+echo -e "$url1\alogs">> test.lst
+echo -e "$url1~logs">> test.lst
+echo -e "$url1\alogs.txt">> test.lst
+echo -e "$url1.lst">> test.lst
+echo -e "$url1.my">> test.lst
+echo -e "$url1.my-bkp.">> test.lst
+echo -e "$url1.my.swp">> test.lst
+echo -e "$url1.my.tar">> test.lst
+echo -e "$url1~nobody/etc/passwd">> test.lst
+echo -e "$url1.nsx">> test.lst
+echo -e "$url1.old">> test.lst
+echo -e "$url1.orig">> test.lst
+echo -e "$url1.original">> test.lst
+echo -e "$url1\apasswd">> test.lst
+echo -e "$url1~passwd">> test.lst
+echo -e "$url1.passwd">> test.lst
+echo -e "$url1\apasswrd">> test.lst
+echo -e "$url1~passwrd">> test.lst
+echo -e "$url1\aphpinfo.php">> test.lst
+echo -e "$url1.rar">> test.lst
+echo -e "$url1\a.robots.txt">> test.lst
+echo -e "$url1\a.Robots.txt">> test.lst
+echo -e "$url1\a.ROBOTS.txt">> test.lst
+echo -e "$url1~root">> test.lst
+echo -e "$url1~root/">> test.lst
+echo -e "$url1.sav">> test.lst
+echo -e "$url1.save">> test.lst
+echo -e "$url1.saved">> test.lst
+echo -e "$url1.sql">> test.lst
+echo -e "$url1.sql.gz">> test.lst
+echo -e "$url1~stat">> test.lst
+echo -e "$url1\astats">> test.lst
+echo -e "$url1~stats">> test.lst
+echo -e "$url1.swo">> test.lst
+echo -e "$url1.swp">> test.lst
+echo -e "$url1~sys">> test.lst
+echo -e "$url1.tar">> test.lst
+echo -e "$url1.tar.gz">> test.lst
+echo -e "$url1~temp">> test.lst
+echo -e "$url1.temp">> test.lst
+echo -e "$url1.tmp">> test.lst
+echo -e "$url1.tpl">> test.lst
+echo -e "$url1.txt">> test.lst
+echo -e "$url1.vb">> test.lst
+echo -e "$url1.zip">> test.lst
+echo -e "Copy_(2)_of_$url1" >> test.lst
+echo -e "Copy_of_$url1" >> test.lst
+echo -e "%20-%20Copy.$url1" >> test.lst
+echo -e "_$url1" >> test.lst
+echo -e "~$url1" >> test.lst
+echo -e "~%24$url1" >> test.lst
+echo -e "].1$url1" >> test.lst
+echo -e "Copy_(1)_of_$url1" >> test.lst
+echo -e "Copy%20$url1" >> test.lst
+
+url2=`echo -e  $U | cut -d '/' -f 3`
+echo -e "$url2.0">> test.lst
+echo -e "$url2.1">> test.lst
+echo -e "$url2.2">> test.lst
+echo -e "$url2%20-%20Copy.">> test.lst
+echo -e "$url2%20%28copy%29.">> test.lst
+echo -e "$url2%20copy.">> test.lst
+echo -e "$url2%23">> test.lst
+echo -e "$url2~admin">> test.lst
+echo -e "$url2.arc">> test.lst
+echo -e "$url2.bac">> test.lst
+echo -e "$url2.back">> test.lst
+echo -e "$url2~backup">> test.lst
+echo -e "$url2~backup.">> test.lst
+echo -e "$url2-backup">> test.lst
+echo -e "$url2-backup.">> test.lst
+echo -e "$url2.~backup">> test.lst
+echo -e "$url2.~backup.">> test.lst
+echo -e "$url2.-backup">> test.lst
+echo -e "$url2.-backup.">> test.lst
+echo -e "$url2.bak">> test.lst
+echo -e "$url2.bak.sql">> test.lst
+echo -e "$url2.bak.sql.bz2">> test.lst
+echo -e "$url2.bak.sql.gz">> test.lst
+echo -e "$url2.bak.sql.tar.gz">> test.lst
+echo -e "$url2.bakup">> test.lst
+echo -e "$url2.bck">> test.lst
+echo -e "$url2~bin">> test.lst
+echo -e "$url2-bkp.">> test.lst
+echo -e "$url2.bkp">> test.lst
+echo -e "$url2.conf">> test.lst
+echo -e "$url2\aCopy_">> test.lst
+echo -e "$url2.cs">> test.lst
+echo -e "$url2.csproj">> test.lst
+echo -e "$url2~database">> test.lst
+echo -e "$url2~dmr1">> test.lst
+echo -e "$url2.my">> test.lst
+echo -e "$url2\aerror_log">> test.lst
+echo -e "$url2\ahtaccess">> test.lst
+echo -e "$url2~.htaccess">> test.lst
+echo -e "$url2.htaccess">> test.lst
+echo -e "$url2~htpasswd">> test.lst
+echo -e "$url2.htpasswrd">> test.lst
+echo -e "$url2.inc">> test.lst
+echo -e "$url2\alog">> test.lst
+echo -e "$url2~log">> test.lst
+echo -e "$url2\alogs">> test.lst
+echo -e "$url2~logs">> test.lst
+echo -e "$url2\alogs.txt">> test.lst
+echo -e "$url2.lst">> test.lst
+echo -e "$url2.my">> test.lst
+echo -e "$url2.my-bkp.">> test.lst
+echo -e "$url2.my.swp">> test.lst
+echo -e "$url2.my.tar">> test.lst
+echo -e "$url2~nobody/etc/passwd">> test.lst
+echo -e "$url2.nsx">> test.lst
+echo -e "$url2.old">> test.lst
+echo -e "$url2.orig">> test.lst
+echo -e "$url2.original">> test.lst
+echo -e "$url2\apasswd">> test.lst
+echo -e "$url2~passwd">> test.lst
+echo -e "$url2.passwd">> test.lst
+echo -e "$url2\apasswrd">> test.lst
+echo -e "$url2~passwrd">> test.lst
+echo -e "$url2\aphpinfo.php">> test.lst
+echo -e "$url2.rar">> test.lst
+echo -e "$url2\a.robots.txt">> test.lst
+echo -e "$url2\a.Robots.txt">> test.lst
+echo -e "$url2\a.ROBOTS.txt">> test.lst
+echo -e "$url2~root">> test.lst
+echo -e "$url2~root/">> test.lst
+echo -e "$url2.sav">> test.lst
+echo -e "$url2.save">> test.lst
+echo -e "$url2.saved">> test.lst
+echo -e "$url2.sql">> test.lst
+echo -e "$url2.sql.gz">> test.lst
+echo -e "$url2~stat">> test.lst
+echo -e "$url2\astats">> test.lst
+echo -e "$url2~stats">> test.lst
+echo -e "$url2.swo">> test.lst
+echo -e "$url2.swp">> test.lst
+echo -e "$url2~sys">> test.lst
+echo -e "$url2.tar">> test.lst
+echo -e "$url2.tar.gz">> test.lst
+echo -e "$url2~temp">> test.lst
+echo -e "$url2.temp">> test.lst
+echo -e "$url2.tmp">> test.lst
+echo -e "$url2.tpl">> test.lst
+echo -e "$url2.txt">> test.lst
+echo -e "$url2.my">> test.lst
+echo -e "$url2.vb">> test.lst
+echo -e "$url2.zip">> test.lst
+echo -e "Copy_(2)_of_$url2" >> test.lst
+echo -e "Copy_of_$url2" >> test.lst
+echo -e "%20-%20Copy.$url2" >> test.lst
+echo -e "_$url2" >> test.lst
+echo -e "~$url2" >> test.lst
+echo -e "~%24$url2" >> test.lst
+echo -e "].1$url2" >> test.lst
+echo -e "Copy_(1)_of_$url2" >> test.lst
+echo -e "Copy%20$url2" >> test.lst
+
+url3=`echo -e $U | cut -d '/' -f 3 | cut -d '.' -f 2`
+echo -e "$url3~" >> test.lst
+echo -e "$url3\a_" >> test.lst
+echo -e "$url3.0" >> test.lst
+echo -e "$url3%00" >> test.lst
+echo -e "$url3%01" >> test.lst
+echo -e "$url3.1" >> test.lst
+echo -e "$url3.2" >> test.lst
+echo -e "$url3%20-%20Copy." >> test.lst
+echo -e "$url3%20%28copy%29." >> test.lst
+echo -e "$url3%20copy." >> test.lst
+echo -e "$url3%23" >> test.lst
+echo -e "$url3~admin" >> test.lst
+echo -e "$url3.arc" >> test.lst
+echo -e "$url3.bac" >> test.lst
+echo -e "$url3.back" >> test.lst
+echo -e "$url3~backup" >> test.lst
+echo -e "$url3~backup." >> test.lst
+echo -e "$url3-backup" >> test.lst
+echo -e "$url3-backup." >> test.lst
+echo -e "$url3.~backup" >> test.lst
+echo -e "$url3.~backup." >> test.lst
+echo -e "$url3.-backup" >> test.lst
+echo -e "$url3.-backup." >> test.lst
+echo -e "$url3\a_bak" >> test.lst
+echo -e "$url3-bak" >> test.lst
+echo -e "$url3.bak" >> test.lst
+echo -e "$url3.bak.sql" >> test.lst
+echo -e "$url3.bak.sql.bz2" >> test.lst
+echo -e "$url3.bak.sql.gz" >> test.lst
+echo -e "$url3.bak.sql.tar.gz" >> test.lst
+echo -e "$url3.bakup" >> test.lst
+echo -e "$url3.bck" >> test.lst
+echo -e "$url3~bin" >> test.lst
+echo -e "$url3.bk" >> test.lst
+echo -e "$url3-bkp." >> test.lst
+echo -e "$url3.bkp" >> test.lst
+echo -e "$url3.bzr" >> test.lst
+echo -e "$url3\acomposer.lock" >> test.lst
+echo -e "$url3.conf" >> test.lst
+echo -e "$url3.copy" >> test.lst
+echo -e "$url3\aCopy_" >> test.lst
+echo -e "$url3.cs" >> test.lst
+echo -e "$url3.csproj" >> test.lst
+echo -e "$url3\aCVS" >> test.lst
+echo -e "$url3.cvsignore" >> test.lst
+echo -e "$url3~database" >> test.lst
+echo -e "$url3.default" >> test.lst
+echo -e "$url3~dmr1" >> test.lst
+echo -e "$url3.DS_Store" >> test.lst
+echo -e "$url3.edu.my" >> test.lst
+echo -e "$url3\aerror_log" >> test.lst
+echo -e "$url3.git" >> test.lst
+echo -e "$url3.gitignore" >> test.lst
+echo -e "$url3.hg" >> test.lst
+echo -e "$url3\ahtaccess" >> test.lst
+echo -e "$url3~.htaccess" >> test.lst
+echo -e "$url3.htaccess" >> test.lst
+echo -e "$url3.htcfk.t6c" >> test.lst
+echo -e "$url3~htpasswd" >> test.lst
+echo -e "$url3.htpasswrd" >> test.lst
+echo -e "$url3.idea" >> test.lst
+echo -e "$url3.inc" >> test.lst
+echo -e "$url3\a_localhost.swo" >> test.lst
+echo -e "$url3\alog" >> test.lst
+echo -e "$url3~log" >> test.lst
+echo -e "$url3\alogs" >> test.lst
+echo -e "$url3~logs" >> test.lst
+echo -e "$url3\alogs.txt" >> test.lst
+echo -e "$url3.lst" >> test.lst
+echo -e "$url3.my" >> test.lst
+echo -e "$url3.my-bkp." >> test.lst
+echo -e "$url3.my.swp" >> test.lst
+echo -e "$url3.my.tar" >> test.lst
+echo -e "$url3~nobody/etc/passwd" >> test.lst
+echo -e "$url3.nsx" >> test.lst
+echo -e "$url3\a_old" >> test.lst
+echo -e "$url3.old" >> test.lst
+echo -e "$url3.org" >> test.lst
+echo -e "$url3.orig" >> test.lst
+echo -e "$url3.original" >> test.lst
+echo -e "$url3\apasswd" >> test.lst
+echo -e "$url3~passwd" >> test.lst
+echo -e "$url3.passwd" >> test.lst
+echo -e "$url3\apasswrd" >> test.lst
+echo -e "$url3~passwrd" >> test.lst
+echo -e "$url3\aphpinfo.php" >> test.lst
+echo -e "$url3.rar" >> test.lst
+echo -e "$url3\arobots.txt" >> test.lst
+echo -e "$url3\aRobots.txt" >> test.lst
+echo -e "$url3\aROBOTS.txt" >> test.lst
+echo -e "$url3~root" >> test.lst
+echo -e "$url3~root/" >> test.lst
+echo -e "$url3.sav" >> test.lst
+echo -e "$url3.save" >> test.lst
+echo -e "$url3.saved" >> test.lst
+echo -e "$url3.sql" >> test.lst
+echo -e "$url3.sql.gz" >> test.lst
+echo -e "$url3~stat" >> test.lst
+echo -e "$url3\astats" >> test.lst
+echo -e "$url3~stats" >> test.lst
+echo -e "$url3.svn" >> test.lst
+echo -e "$url3.svnignore" >> test.lst
+echo -e "$url3.swo" >> test.lst
+echo -e "$url3.swp" >> test.lst
+echo -e "$url3~sys" >> test.lst
+echo -e "$url3.tar" >> test.lst
+echo -e "$url3.tar.gz" >> test.lst
+echo -e "$url3~temp" >> test.lst
+echo -e "$url3.temp" >> test.lst
+echo -e "$url3.tmp" >> test.lst
+echo -e "$url3.tpl" >> test.lst
+echo -e "$url3.txt" >> test.lst
+echo -e "$url3.my" >> test.lst
+echo -e "$url3.vb" >> test.lst
+echo -e "$url3.zip" >> test.lst
+echo -e "Copy_(2)_of_$url3" >> test.lst
+echo -e "Copy_of_$url3" >> test.lst
+echo -e "%20-%20Copy.$url3" >> test.lst
+echo -e "_$url3" >> test.lst
+echo -e "~$url3" >> test.lst
+echo -e "~%24$url3" >> test.lst
+echo -e "].1$url3" >> test.lst
+echo -e "Copy_(1)_of_$url3" >> test.lst
+echo -e "Copy%20$url3" >> test.lst
+
+
+
+wfuzz -c -z file,test.lst --sc 200,401,403 $U/FUZZ
+
+
+echo "
+Here Tips How Bypassed Some '403' Directory
+site.com/secret     ==> 403
+site.com/secret$YELLOW/$STAND   ==> 200
+site.com/secret$YELLOW/.$STAND  ==> 200
+site.com/secret$YELLOW//$STAND   ==> 200
+site.com/secret$YELLOW/./$STAND  ==> 200
+"
+
+
+echo -e ""
+echo -e "
+ ▄▄▄▄    ▄▄▄▄  ▄▄▄▄▄  ▄    ▄
+ █   ▀▄ ▄▀  ▀▄ █   ▀█ █  ▄▀ 
+ █    █ █    █ █▄▄▄▄▀ █▄█   
+ █    █ █    █ █   ▀▄ █  █▄ 
+ █▄▄▄▀   █▄▄█  █    ▀ █   ▀▄
+" | lolcat -p 0.7
+
+echo -e "$STAND\n$RED$BOLD Klik Enter for Continue find file.. \c$STAND"
+read enter
+
+rm -f dorkfile.lst
+
+# -------- googfile
+echo -e "
+ans
+csv
+conf
+ext
+db
+doc
+docx
+git
+gz
+ini
+log
+lwp
+mdb
+mw
+odp
+ods
+pdf
+ppt
+pptx
+ps
+rar
+rtf
+sdb
+sig
+sql
+tar
+tif
+ttif
+txt
+swp
+wdb
+wk
+wki
+wks
+wku
+wps
+wri
+xls
+xlsx
+xml
+zip
+" >> dorkfile.lst
+
+#--
+#omm=$(echo -e "https://duckduckgo.com/?q=filetype:pdf+site:$domain&t=k_")
+#lynx $omm -force_secure -dump -listonly >> result.lst
+#--
+
+echo "
+++++++++++++++
+  DUCKDUCKGO
+++++++++++++++
+"
+for x in `cat dorkfile.lst`
+do
+echo -e "DuckDuckGo find $x file on $domain"
+timeout 10 lynx "https://duckduckgo.com/?q=filetype:$x+site:$domain&t=opera&ia=web" -force_secure -dump -listonly | grep -iE '\.'$x | cut -d '=' -f 3,4,5,6,7
+done
+
+echo "
+++++++++++++++
+     BING
+++++++++++++++
+"
+for x in `cat dorkfile.lst`
+do
+echo -e "Bing find $x file on $domain"
+timeout 10 lynx "https://www.bing.com/search?q=filetype:$x+site:$domain&go=Submit&qs=ds&form=QBLH" -force_secure -dump -listonly | cut -d '.' -f 2,3,4,5,6,7,8,9 | grep -iE '\.'$x
+done
+
+echo "
+++++++++++++++
+    GOOGLE
+++++++++++++++
+"
+for x in `cat dorkfile.lst`
+do
+echo -e "Google find $x file on $domain"
+timeout 10 lynx "https://www.google.com/search?client=firefox-b-d&q=filetype:$x+site:$domain" -force_secure -dump -listonly | grep -iE '\.'$x | cut -d '=' -f 2,3,4,5,6
+done
+
+
+#cat result1.lst | grep -iE '\.'$x | cut -d '=' -f 3,4,5,6,7
+#cat result2.lst | cut -d '.' -f 2,3,4,5,6,7,8,9 | grep -iE '\.'$x
+#cat result3.lst | grep -iE '\.'$x | cut -d '=' -f 2,3,4,5,6
+rm -f result1.lst result2.lst result3.lst test.lst dorkfile.lst
+
+echo ""
+echo -e "$BOLD$GREEN Have A Nice Day$STAND"
