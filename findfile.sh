@@ -36,7 +36,7 @@ if [ -z $U ]; then
     echo "
   ┳━┓  o  ┏┓┓  ┳━┓    ┳━┓  o  ┳    ┳━┓
   ┣━   ┃  ┃┃┃  ┃ ┃    ┣━   ┃  ┃    ┣━ 
-  ┇    ┇  ┇┗┛  ┇━┛    ┇    ┇  ┇━┛  ┻━┛" | lolcat -p 0.7
+  ┇    ┇  ┇┗┛  ┇━┛    ┇    ┇  ┇━┛  ┻━┛"
     echo -e "                                by-$BOLD rouze_d$STAND"
     echo -e "$BLUE try to find file include:"
     echo -e " log, modifed, backup, ssistant's workstation, etc... $STAND"
@@ -48,7 +48,7 @@ fi
 rm -f test.lst dorkfile.lst
 
 
-cat<<"EOT" | lolcat -p 0.3
+cat<<"EOT"
 
   ┳━┓  o  ┏┓┓  ┳━┓    ┳━┓  o  ┳    ┳━┓
   ┣━   ┃  ┃┃┃  ┃ ┃    ┣━   ┃  ┃    ┣━ 
@@ -81,6 +81,16 @@ echo -e "%00" >> test.lst
 echo -e "%01" >> test.lst
 echo -e ".1" >> test.lst
 echo -e ".2" >> test.lst
+echo -e ".1.zip" >> test.lst
+echo -e ".2.zip" >> test.lst
+echo -e "1.zip" >> test.lst
+echo -e "2.zip" >> test.lst
+echo -e "1.ZIP" >> test.lst
+echo -e "2.ZIP" >> test.lst
+echo -e "backup.ZIP" >> test.lst
+echo -e "backup.zip" >> test.lst
+echo -e "BACKUP.ZIP" >> test.lst
+echo -e "BACKUP.zip" >> test.lst
 echo -e "%20-%20Copy." >> test.lst
 echo -e "%20%28copy%29." >> test.lst
 echo -e "%20copy." >> test.lst
@@ -551,7 +561,7 @@ echo -e "
  █    █ █    █ █▄▄▄▄▀ █▄█   
  █    █ █    █ █   ▀▄ █  █▄ 
  █▄▄▄▀   █▄▄█  █    ▀ █   ▀▄
-" | lolcat -p 0.7
+"
 
 echo -e "$STAND\n$RED$BOLD Klik Enter for Continue find file.. \c$STAND"
 read enter
